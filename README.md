@@ -8,8 +8,6 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 * install the dependencies - `npm install`
 * Run the project - `npm start`
 
-## Contributing
-
 
 
 ## License
